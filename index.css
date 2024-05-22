@@ -7,12 +7,12 @@
 }
 
 body{
-    background-color: #222;
+    background-color: #a0526b98;
 }
 .card{
     width: 90%;
     max-width: 470px;
-    background-color: hsla(186, 41%, 35%, 0.75);
+    background-color: hsla(195, 58%, 47%, 0.75);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
