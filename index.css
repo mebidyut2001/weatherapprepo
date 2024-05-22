@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: #a0526b98;
+  background: linear-gradient(0deg, #f1f4f8, #f1f4f8);
 }
 .card{
     width: 90%;
